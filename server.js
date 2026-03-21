@@ -19,6 +19,7 @@ mongoose
   })
   .catch((err) => {
     console.log("MongoDB error:", err);
+    process.exit(1);
   });
 
 // Routes
