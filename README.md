@@ -65,7 +65,7 @@ node server.js
 
 ## Testing
 
-You can test all endpoints using Postman or any API client. Make sure to include the JWT token in headers for protected routes. See [Testing Guide](https://quartz-metal-5b2.notion.site/Server-Testing-Postman-Guide-329ce746206981c2bc16c8346c411f89?source=copy_link) for detailed steps.
+You can test all endpoints using Postman or any API client. Make sure to include the JWT token in headers for protected routes. See [Testing Guide](https://quartz-metal-5b2.notion.site/Server-Testing-Postman-Guide-Auth-System-329ce74620698189834ac1da4e6f88c1?source=copy_link) for detailed steps.
 
 ## Project Structure
 ```
